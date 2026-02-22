@@ -5,7 +5,7 @@ A modern React application to manage a list of students with **search, filter, f
 ---
 ## 🚀 Live Demo
 
-🔗 Live Site:
+🔗 Live Site: https://favourite-student-list-delta.vercel.app/
 
 ## 📂 GitHub Repository
 
