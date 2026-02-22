@@ -3,6 +3,15 @@
 A modern React application to manage a list of students with **search, filter, favourites, toast notifications, and attractive UI** built using **Tailwind CSS** and **React Context API**.
 
 ---
+## 🚀 Live Demo
+
+🔗 Live Site:
+
+## 📂 GitHub Repository
+
+🔗 Repository: 
+
+---
 
 ## 🚀 Key Features
 - **Global State with useContext**  
