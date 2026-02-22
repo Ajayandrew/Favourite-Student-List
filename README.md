@@ -1,23 +1,42 @@
 # 🎓 Favourite Student List App
 
-A modern React application to manage a list of students with features like **search, filter, favourites, toast notifications, and attractive UI** built using **Tailwind CSS**.
+A modern React application to manage a list of students with **search, filter, favourites, toast notifications, and attractive UI** built using **Tailwind CSS** and **React Context API**.
 
 ---
 
-## 🚀 Features
-- Student list management with attractive card UI  
-- Add to favourites ✅ and remove from favourites 🗑️  
-- Toast notifications with custom icons/images  
-- Search and filter functionality  
-- Gradient backgrounds, hover effects, badges, and responsive design  
+## 🚀 Key Features
+- **Global State with useContext**  
+  - Centralized student and favourites management using React Context API.  
+  - Avoids prop drilling and keeps the app scalable.  
+
+- **Student List Management**  
+  - Clean card layout with hover effects and gradient backgrounds.  
+  - Add and remove students from favourites easily.  
+
+- **Favourites Badge Counter**  
+  - Dynamic badge in the Navbar showing the count of favourites.  
+  - Animated pulse effect for attention.  
+
+- **Toast Notifications**  
+  - Success ✅ and error ❌ toasts with custom PNG icons.  
+  - Clear feedback for user actions (add/remove favourites).  
+
+- **Search & Filter**  
+  - Quickly find students by name or category.  
+  - Realistic demo data for a professional feel.  
+
+- **Attractive UI**  
+   - Responsive design with Tailwind CSS.  
+  - Smooth transitions (`hover:scale-105`, `hover:shadow-2xl`).  
 
 ---
 
 ## 🛠️ Tech Stack
-- React  
-- Tailwind CSS  
-- React Router  
-- React Hot Toast  
+- **React** – Frontend framework  
+- **Tailwind CSS** – Styling & gradients  
+- **React Router** – Navigation  
+- **React Hot Toast** – Notifications  
+- **Context API (useContext)** – Global state management  
 
 ---
 
