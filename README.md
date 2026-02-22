@@ -53,3 +53,5 @@ A modern React application to manage a list of students with **search, filter, f
 
 src/ ├── assets/ # PNG icons (check, cross, trash, etc.) ├── components/  # StudentList, FavouriteList, Navbar ├── context/   # StudentContext for global state ├── App.js   # Main app with routes ├── index.css        # Tailwind + global styles └── index.js     
 
+## 👨‍💻 Author
+**S. Ajay Andrew**
