@@ -9,7 +9,7 @@ const Navbar = () => {
   const { favourites } = useContext(StudentContext);
 
   return (
-    <nav className="bg-gradient-to-r from-blue-600 to-indigo-600 p-4 flex justify-between items-center shadow-lg">
+    <nav className="sticky top-0 z-50 bg-gradient-to-r from-blue-600 to-indigo-600 p-4 flex justify-between items-center shadow-lg">
       {/* Logo */}
       <div className="text-white font-bold text-xl tracking-wide">
         🎓 Student Directory
