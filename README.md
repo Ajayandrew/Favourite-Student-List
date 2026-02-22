@@ -9,7 +9,7 @@ A modern React application to manage a list of students with **search, filter, f
 
 ## 📂 GitHub Repository
 
-🔗 Repository: 
+🔗 Repository: https://github.com/Ajayandrew/Favourite-Student-List.git
 
 ---
 
